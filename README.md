@@ -52,9 +52,9 @@ Having access to such a varied and meticulously labeled dataset allows the Drone
 
    - pip install opencv-python torch numpy pillow
 
-3. USe the YOLOv8 model based on YOLOv5 framework:
+3. USe the YOLOv5 model framework:
 
-   - YOLOv8 is built on the YOLOv5 framework and includes several architectural and developer experience improvements. YOLOv8 based on YOLOv5 is easier to use, faster and more accurate. 
+   - YOLOv5 framework and includes several architectural and developer experience improvements. YOLOv5 is easier to use, faster and more accurate. 
 
 ## Usage
 
