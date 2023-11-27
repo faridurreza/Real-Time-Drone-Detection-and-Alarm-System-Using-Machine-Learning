@@ -46,7 +46,7 @@ Having access to such a varied and meticulously labeled dataset allows the Drone
 
 1. Clone the repository:
 
-   - git clone https://github.com/thesabbirahmed/YOLOv8-Real-Time-Drone-Detection-by-Sabbir
+   - git clone https://github.com/faridurreza/Real-Time-Drone-Detection-and-Alarm-System-Using-Machine-Learning
 
 2. Install the required Python libraries:
 
